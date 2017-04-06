@@ -5,4 +5,4 @@ I wrote this mesh exporter plugin in my 3D Content Creation class at Full Sail U
 + Tri's
 + Verts
 
-The Data is written out to a binary file, as well as an XML file.
+The data is written out to a binary file, as well as an XML file.
